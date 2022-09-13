@@ -1,0 +1,13 @@
+echo "# Test-Bitcoin" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Inna38/Test-Bitcoin. git
+ git push -u джерело main
+ <script>
+ const priceBitcoin = +prompt (`What is Bitcoin price today?`)
+const sumOfDollars = +prompt(`How much $ do you have?`)
+const result = sumOfDollars/ priceBitcoin
+alert (`You can buy ` + result + ` BTC`)
+</script>
